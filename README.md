@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayykayoff
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, C, VB, C#(Unity)
+- 🌱 I’m currently learning C++, C, C#(Unity), VB
 - 💞️ I’m looking to collaborate on Unity game projects
 - 📫 How to reach me: inst ayykayoff
 - 😄 Pronouns: he
